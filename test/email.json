@@ -1,0 +1,3 @@
+{
+    "body": "{\"to\":\"abc@example.com\", \"subject\":\"Subject line\", \"message\":\"This is body\",\"from\":\"xyz@domain.com\" }"
+}
